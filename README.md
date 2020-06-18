@@ -1,2 +1,3 @@
-# SLAPractice
-Specific Leaf area practice repo
+# Specific Leaf Area Practice repo
+
+Practising how to use GitHub
